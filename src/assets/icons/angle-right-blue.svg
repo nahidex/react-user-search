@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="10px" viewBox="0 0 7 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Arrow-S" transform="translate(-4.000000, -3.000000)" fill="#007CAD">
+            <polygon id="Arrow" transform="translate(7.530330, 7.795495) rotate(-90.000000) translate(-7.530330, -7.795495) " points="11 5 12.0606602 6.06066017 7.53033009 10.5909903 3 6.06066017 4.06066017 5 7.53033009 8.46966991"></polygon>
+        </g>
+    </g>
+</svg>

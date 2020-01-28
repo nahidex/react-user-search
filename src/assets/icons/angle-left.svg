@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon/Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu_mobile-About" transform="translate(-18.000000, -80.000000)" fill="#007CAD">
+            <g id="Icon/Arrow" transform="translate(22.000000, 86.000000) rotate(180.000000) translate(-22.000000, -86.000000) translate(12.000000, 76.000000)">
+                <polygon id="Arrow" transform="translate(9.829579, 10.161036) rotate(-90.000000) translate(-9.829579, -10.161036) " points="14.1666667 6.66666667 15.4924919 7.99249188 9.82957927 13.6554045 4.16666667 7.99249188 5.49249188 6.66666667 9.82957927 11.0037541"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

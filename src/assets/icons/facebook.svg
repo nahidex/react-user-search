@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon/Sns/Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="News_Article_SP" transform="translate(-15.000000, -289.000000)">
+            <g id="Group-4" transform="translate(15.000000, 289.000000)">
+                <g id="Icon/Sns/Facebook">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="24" height="24" rx="2"></rect>
+                    <path d="M22,0 L2,0 C0.8954305,2.02906125e-16 9.22352849e-14,0.8954305 9.23705556e-14,2 L9.23705556e-14,22 C9.25058264e-14,23.1045695 0.8954305,24 2,24 L10.125,24 L10.125,24 L10.125,15.46875 L7.078125,15.46875 L7.078125,12 L10.125,12 L10.125,9.35625 C10.125,6.34875 11.9165156,4.6875 14.6575781,4.6875 C15.9704766,4.6875 17.34375,4.921875 17.34375,4.921875 L17.34375,7.875 L15.8305781,7.875 C14.3398828,7.875 13.875,8.80000781 13.875,9.74899219 L13.875,12 L17.203125,12 L16.6710938,15.46875 L13.875,15.46875 L13.875,24 L22,24 C23.1045695,24 24,23.1045695 24,22 L24,2 C24,0.8954305 23.1045695,-2.02906125e-16 22,0 Z" id="Fill-1" fill="#1877F2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
